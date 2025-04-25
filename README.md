@@ -68,7 +68,7 @@ NOTE: You may not use status healing flutes except the poke flute for waking Sno
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. Can not be used on bosses (Gym Leaders and Pokemon League).
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. Can not be used on bosses (Gym Leaders and Pokemon League). EXCEPTION: Any Pokemon 440 BST or lower may use Setup moves on bosses.
 
 # Other General Rules
 
@@ -82,35 +82,8 @@ All shinies are free catches or kills.
 
 # Settings
 
-Randomize the game. 
-
-All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. 
-
-All Pokemon must have Fluctuating Growth Rates. 
-
-All opponents must have Smart AI(requires patch or SmartAI randomizer). 
-
-BOSS and IMPORTANT trainers must have sensible and consumable held items. 
-
-All move tutors, TMs, and items must be randomized. 
-
-Static Pokémon MUST NOT have level increase. 
-
-`No "Make Evolutions Easier".`
-
-Forced Fully Evolved at Level 30. 
-
-All Boss trainers must have 3 additional Pokemon. 
-
-Catch Rate set to "5" (100% Catch Rate)
-
-# HGSS Monomon Settings String
-
-Download the [rnqs file](https://github.com/BigMurph619/Monomon/blob/0a3f529c7286215b49ec8e5cd1ccbe8418ccfff0/FRLG-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer.
 
 [Java](https://www.java.com/en/download/manual.jsp) 
-
-[Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
 
 # Specific Game Rules
 
@@ -120,7 +93,7 @@ Download the [rnqs file](https://github.com/BigMurph619/Monomon/blob/0a3f529c728
 
 3. Pivoting: 
     - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
-    - You must pivot before entering Bellsprout Tower. You may NOT pivot again after entering Bellsprout Tower/1st Gym.
+    - You must pivot before entering Bellsprout Tower. You may NOT pivot again after entering Bellsprout Tower.
     - You may receive EXP from 1 wild mon prior to Bellsprout Tower but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
     - You may use any Mon at the front of your party until you lock in your pivot.
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
