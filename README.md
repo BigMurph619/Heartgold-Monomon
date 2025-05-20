@@ -42,7 +42,8 @@ All held items found on pivot options/HM friend catches are allowed to be kept. 
 
 |  **Dungeons** |
 | :-----------: |
-| All buildings with trainers except Pokemon Centers |
+| All buildings with trainers in Johto except Pokemon Centers |
+| All Gyms |
 
 >Forests are NOT dungeons
 
@@ -117,17 +118,16 @@ Both Java and the IronMON Tracker by UTDZac are used for this challenge. [Java](
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. Getting a favorite in the lab grants you a 4th pivot option.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). You may catch until you find one without illegal ability (if there is one).
 
-5. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
+4. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - Please note that there are 100% catch rates in Monomon, so throwing balls will not work to scout moves. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
 
-6. You must defeat Chuck and Jasmine prior to entering Mahogany Town.
+5. You must defeat Chuck and Jasmine prior to entering Mahogany Town.
 
-Kanto
+6. Kanto is free game (no mandatory pathing or dungeons) other than you must defeat all trainers in Gyms before leaving to heal.
 
-
-15. You must defeat Red to beat Monomon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight.
+7. You must defeat Red to beat Monomon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight.
 
 Good luck Challenger.
 
