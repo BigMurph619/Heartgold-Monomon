@@ -94,15 +94,16 @@ Both Java and the IronMON Tracker by UTDZac are used for this challenge. [Java](
 
 # Specific Game Rules
 
-Notes:
--The Monomon settings string elminates "bad berries".
--You are allowed to change to game's time for events that occur on specific days within the game or to change weather for the Red fight.
--You may only keep items obtained from Rock Smash if it is the first smash.
--You cannot defeat the Shiny Gyarados more than once. (respawns after E4)
--You may only fight trainers on your first visit to the lighthouse (you must speak to Jasmine or you will be soft locked).
--You may use Flash freely.
--Each building of the Radio Tower story sequence is treated separately. You can heal as you go from the tower to the basement, or basement back to the tower. You can fight trainers in the tower when you return later to finish the story.
--Double battles: You may use your HM friend freely in Doubles Fights
+|Notes|
+|-|
+|The Monomon settings string elminates "bad berries".|
+|You are allowed to change to game's time for events that occur on specific days within the game or to change weather for the Red fight.|
+|You may only keep items obtained from Rock Smash if it is the first smash.|
+|You cannot defeat the Shiny Gyarados more than once. (respawns after E4) |
+|You may only fight trainers on your first visit to the lighthouse (you must speak to Jasmine or you will be soft locked). |
+|You may use Flash freely. |
+|Each building of the Radio Tower story sequence is treated separately. You can heal as you go from the tower to the basement, or basement back to the tower. You can fight trainers in the tower when you return later to finish the story. |
+|Double battles: You may use your HM friend freely in Doubles Fights |
 
 1. You may pick any mon you want in the lab that is 599 BST or lower except Mythicals and Legendaries. You may keep its held item. If you evolve into a Pokemon that is over 599 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
