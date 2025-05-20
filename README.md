@@ -85,9 +85,9 @@ Heartgold Monomon utilizes the [Super Kaizo Patch](https://github.com/PyroMikeGi
 
 Download and apply the patch to your vanilla, legally obtained Heartgold ROM.
 
-RNQS download [rnqs File Found Here](https://github.com/TakeJoshyy/TheMurphVerse/blob/main/1.GameModes/Emerald-Monomon/Emerald-Monomon-Settings-String.rnqs)
+RNQS download [rnqs File Found Here](https://github.com/BigMurph619/HGSS-Monomon/blob/main/HGSS%20Monomon%20Settings.rnqs)
 
-> The setting string for note: 321WRIEEgIkAQAAAACRAAKeBhsBCQEACQACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUgAMwQiAAAAAIVUG9rZW1vbiBIZWFydEdvbGQgKFUpil/LPOPDOIo=
+> RNQS: 321WRIEEgIkAQAAAACRAAKeBhsBCQEACQACCQAuEgAAAAAAzBCI5ATkQYYICTIGBQIyAAUgAMwQiAAAAAIVUG9rZW1vbiBIZWFydEdvbGQgKFUpil/LPOPDOIo=
 
 You MUST use SomethingSmart's randomizer with this settings string: [Something Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
