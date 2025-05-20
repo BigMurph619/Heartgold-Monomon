@@ -138,4 +138,4 @@ Good luck Challenger.
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/HGSSIronmonMap/) HGSS Interactive Map
 
-### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [RSE Game Specific](#specific-game-rules)
+### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [HGSS Game Specific](#specific-game-rules)
